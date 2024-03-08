@@ -2,11 +2,11 @@
 
 meu nome é lavinia zumkiewicz 
 
--estou estudando na plataforma [alura](https://cursos.alura.com.br/loginForm?logout)
+- estou estudando na plataforma [alura](https://cursos.alura.com.br/loginForm?logout)
 
--estou aprendendo a linguagem de progamação
+- estou aprendendo a linguagem de progamação
 
--utilizo essa plataforma para postar meus projetos
+- utilizo essa plataforma para postar meus projetos
 
 ![](https://media.tenor.com/hCCH9HWz5hoAAAAM/nepeta-homestuck.gif)
 ![](https://media.tenor.com/OiS3hjbROmEAAAAM/gamzee-makara.gif)
